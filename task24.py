@@ -23,4 +23,3 @@ for i in range(len(allChernichka) - 1):
 
 print("Максимум собрать", maxChernichka, "шт")
 print("Больше всего ягод у куста №", allChernichka.index(max(allChernichka)) + 1)
-
